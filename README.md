@@ -1,4 +1,4 @@
-#GPT-2 Like Model for High School Project
+# GPT-2 Like Model for High School Project
 Project Overview
 
 This project aims to develop a GPT-2-like language model with reduced computational requirements. It is implemented using TensorFlow/Keras and leverages Hugging Face's datasets and transformers libraries for data handling and tokenization.
